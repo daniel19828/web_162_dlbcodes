@@ -1,0 +1,259 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+
+/*THESE ARE MY [RESPONSIVE PHONE STYLES] THAT ARE USED [SITE WIDE] THE DOCUMENT*/
+
+
+@media (max-width: 900px){
+    
+
+
+
+
+
+    .body{
+        margin: 0;
+    }
+
+
+
+#topnav ul li{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.education h1{
+    width: 95%;
+    height: auto;
+    margin-left: 5em;
+    margin-bottom: .25em; 
+
+}  
+    
+    .education h2{
+    width: 95%;
+    height: auto%;
+    margin-left: 8em;
+    margin-bottom: 3em; 
+    text-align: center;
+    color: skyblue;
+    float: left;
+    clear: both;
+}
+    
+ /***************************global style**************************/ 
+    
+p{
+    width: 90%;
+    height: auto;
+    text-align: justify-all;
+    margin: 
+    padding: 
+    float: left;
+    clear: both;
+    font-size: 144%;
+    
+}
+
+
+    
+
+    
+.danielb{
+    width: 100%;
+    height: auto;
+    padding-top: 
+    float: left;
+    clear: both;
+}
+    
+.education{
+    width: 95%;
+    height: auto;
+    position: relative;
+    right: 0px;
+    left: 20px;
+    top: 10px;
+    float: left;
+    clear: both;
+    margin-bottom: 15em;
+}
+.education p{
+    width: 100%;
+    height: auto; 
+    margin-left: 3em;
+    float: left;
+    clear: both;
+    
+    line-height: 1.5;
+    color: black;
+}  
+    
+.content_wrap{
+    width: 98%;
+    height: auto;
+    background-color: none;
+    float: left;
+    clear: both;
+    color: skyblue;
+    margin-bottom: 0px;
+}
+    
+       .z_box{
+        width: 99%;
+        height: 10em;
+        background-image: url(/images/ui_ux_design.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    
+     
+.content_wrap p{
+    width:97%;
+    height: auto;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    padding-bottom: 2.5em;
+    line-height: 1.5;
+    color: white;
+}   
+    
+.z_box{
+    width: 98%;
+    height: auto;
+    margin: 10.5px;
+    margin-top: 5em;
+    padding-top: 5em;
+    float: left;
+    clear: both;
+    background-color: black;
+}  
+    
+   .dlb_gallery{
+    width: 90%;
+    height: auto;
+    background-color:
+    float: left;
+    clear: both;
+    color: 
+    text-align: center;
+    font-family: fantasy;
+}
+
+.g_box{
+    width: 25%;
+    height: 11em;
+    margin-left: 8em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    float: left;
+    clear: none; 
+    border: solid;
+    border-style: solid;
+    border-color: black;
+}
+    
+
+    
+    
+    
+    
+    
+/*
+
+
+
+
+
+.profile{
+    width: 25%;
+    height: auto;  
+    float: left;
+    clear: both;
+}
+	
+img{
+	max-width: 100%;
+}	
+	
+*/
+
+
+
+
+
+/* this is the menu button. i added this style onto this sheet to control the position of the button not the button design*/
+    /* button design is controlled in the menu_styles.css file*/
+
+
+
+#gold_ring{
+    position: absolute;
+    bottom: -1em;
+    left: .5em;
+}
+
+
+
+
+
+/* this is the button position values to keep it in its current location*/
+
+
+/*
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+h3{
+    
+    width: 
+    height: 
+    text-align: center;
+    color: skyblue;
+    float: 
+    clear: 
+    
+    
+}
+
+
+
+.daniel_footer{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: none;
+    
+}
+
+
+*/
+
+
+}
+
+
+/* command + / = this shortcut adds comment tags */
+/* command + tab = this shortcut lets you flip through and see what programs you have open*/
+
+/***********************here are some notes on how to apply styles on a form ******************************/
+
+
+/*

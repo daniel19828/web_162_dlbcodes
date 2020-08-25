@@ -1,0 +1,233 @@
+@charset "UTF-8";
+/* CSS Document */
+
+    
+/*THIS IS THE START OF THE FOOTER STYLES*/
+
+.daniel_footer  {
+	width: 100%;
+	height: auto;
+	background-color: #030303;
+	float: left;
+    clear: none;
+    font-size: x-large;
+}
+.fa-facebook {
+	width: 80%;
+	height: auto;
+	text-align: center;
+	float: right;
+	color: skyblue;
+    position: relative;
+    top: 21px;
+    right: 
+}
+.fa-twitter {
+	width: 40%;
+	height: auto;
+	float: right;
+    clear: both;
+	color: skyblue;
+	text-align: center;
+    position: relative;
+    top: px;
+    right: 
+}
+.fa-instagram{
+	width: 25%;
+	height: auto;
+	float: left;
+	color: skyblue;
+	text-align: center;
+    position: relative;
+    top: px;
+}
+.fa-linkedin-in{
+	width: 25%;
+	height: auto;
+    float: left;
+	color: skyblue;
+	text-align: center;
+    position: relative;
+    top: -px;
+}
+
+.h_box{
+        width: 100%;
+        height: auto;
+        color: skyblue;
+        font-family: cursive;
+        font-size: large;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 0px;
+        left: 5px;
+}   
+.i_box{
+        width: 100%;
+        height: auto;
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 0px;
+        left: 5px;
+}
+
+.j_box{
+        width: 100%;
+        height: auto;
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 0px;
+        left: 5px;
+}
+        
+.k_box {
+       width: 100%;
+       height: auto;
+	   color: white;
+       font-size: small;
+       float: left;
+       clear: both;
+       position: relative;
+       top: 0px;
+       left: 5px;
+}    
+
+.l_box {
+    width: 100%;
+    height: auto;
+    color: white;
+    text-decoration: none;
+	float: left;
+	clear: both;
+    font-size: small;
+    position: relative;
+    left: 5px;
+    margin-bottom: 10px;
+    
+}
+
+/*validator link styles go here*/
+.validator_links{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+   font-size: medium;
+    color: white;
+}
+.validator_links.p{
+    width: 100%;
+    height: auto;
+    
+    
+}
+
+.validator_links a{
+    color: white;
+    text-decoration: none;
+}
+
+.validator_links a:hover{
+    color: red;
+}
+
+
+
+
+
+
+ .l_box a{
+        text-decoration: none;
+        color: skyblue;
+}
+.l_box a:hover{
+        color: red;
+}  
+
+.i_box a{
+    text-decoration: none;
+    color: white;
+}
+    .i_box a:hover{
+    color: red;
+}
+
+    .k_box a{
+        text-decoration: none;
+        color: white;
+}
+    .k_box a:hover{
+        color: red;
+}
+
+
+
+   .pacnw_footer .a_box a:hover{
+        animation-delay: -2s;
+}
+    .pacnw_footer .a_box a{
+        color: white;
+        text-decoration: none;
+    }
+    
+   .pacnw_footer .b_box a:hover{
+        color: skyblue;
+}
+    .pacnw_footer .b_box a{
+        color: white;
+        text-decoration: none;
+    } 
+    
+  .pacnw_footer .c_box a:hover{
+        color: skyblue;
+}
+    .pacnw_footer .c_box a{
+        color: white;
+        text-decoration: none;
+    }  
+    
+  .pacnw_footer .d_box a:hover{
+        color: skyblue;
+}
+    .pacnw_footer .d_box a{
+        color: white;
+        text-decoration: none;
+    }
+    
+.pacnw_footer .n_box a:hover{
+        color: red;
+}
+    .pacnw_footer .n_box a{
+        color: white;
+        text-decoration: none;
+    }    
+    
+    .pacnw_footer .o_box a:hover{
+        color: white;
+}
+    .pacnw_footer .o_box a{
+        color: yellow;
+        text-decoration: none;
+    }
+     
+    
+.j_box a{
+    color: white;
+    text-decoration: none;
+}
+
+.j_box a:hover{
+    color: red;
+    
+}
+
+

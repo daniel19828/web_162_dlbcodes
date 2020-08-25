@@ -1,0 +1,286 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+
+/*THESE ARE THE STYLES THAT ARE USED IN THE BODY OF THE DOCUMENT*/
+
+
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+.main_container{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: white;
+    float: left;
+    clear: both;
+}
+
+.banner{
+ 
+	width: 100%;
+	height: 100px;
+    float:  left;
+    clear: left;
+    color: black;
+    font-size: 3em;
+    background-color: white;
+    
+}
+
+.space{
+    width: 100%;
+    height: auto;
+    margin-top: .9em;
+}
+
+#topnav{
+  width: 100%;
+    height: auto;
+    float: left;
+    clear: left;
+    
+}
+    
+    /*
+    position: relative;
+    top: 
+    left: 0;
+    right: 0; */
+    
+
+
+
+.editable_region{
+    width: 100%;
+    height: auto;
+}
+.danielb{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+}
+ .education h1{
+    width: 100%;
+    height: auto; 
+    float: left;
+    clear: both;
+    margin-left: 10em;
+}
+.education h2{
+    margin-left: 13.2em;
+}
+
+.education{
+    width: 73%;
+    height: auto;
+    max-width: 600px;
+    position: relative;
+    right: 10px;
+    top: -22em;
+    float: left;
+    clear: both;
+}
+.education p{
+    width: 38.5em;
+    margin-left: 22em;
+    left: 10px;
+    top: 10px;
+    
+    line-height: 1.5;
+    color: black;
+}   
+
+
+
+.content_wrap{
+    width: 100%;
+    height: 400px;
+    margin-top: -200px;
+    background-color:
+    float: left;
+    clear: both; 
+    
+    margin-bottom: 100px;
+}
+.content_wrap p{
+    line-height: 1.5;
+    color: black;
+}
+.z_box{
+    width: 726px;
+    height: auto;
+    margin: 10.5px;
+    float: left;
+    clear: none;
+    padding-bottom: 
+    background-color: 
+}
+
+.blank_margin{
+    width: 100%;
+    height: 1em;
+    color: white;
+}
+
+
+.blank_block{
+    width: 70%;
+    height: 390px;
+    float: right;
+    clear: left;
+    margin-left: 3vw;
+}
+
+.profile{
+    width: 25%;
+    height: auto;  
+    float: left;
+    clear: both;
+}
+	
+img{
+	max-width: 100%;
+}	
+	
+/* this is the menu button. i added this style onto this sheet to control the position of the button not the button design*/
+    /* button design is controlled in the menu_styles.css file*/
+
+#gold_ring{
+    position: absolute;
+    bottom: 50px;
+    left: .5em;
+}
+/* this is the button position values to keep it in its current location*/
+
+
+
+
+.dlb_gallery{
+    width: 100%;
+    height: 400px;
+    background-color
+    float: left;
+    clear: both;
+    color: black;
+    padding-bottom: 5em;
+    margin-bottom: 5em;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.g_box{
+    width: 700px;
+    height: auto;
+    margin: 3em;
+    margin-left: 8em;
+    float: left;
+    clear: both;
+    padding-bottom: 
+    border: solid;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
+
+
+h1{
+    width: 100%;
+    height: auto;
+    margin: .8em;
+    text-align: center;
+    color: black;
+    float: left;
+    clear: left;
+    
+}
+
+h2{
+    width: 100%;
+    height: auto;
+    margin: .5em;
+    margin-left: 5.9em;
+    text-align: center;
+    color: black;
+    float: left;
+    clear: left;
+}
+
+h3{
+    
+    width: 60%;
+    height: auto;
+    margin: .8em;
+    margin-right: 6em;
+    margin-top: -11em;
+    text-align: justify-all;
+    border: solid;
+    padding: 1em;
+    color: black;
+    float: right;
+    clear: left;
+    
+    
+}
+
+p{
+    width: 100%;
+    height: auto;
+    color: black;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    float: left;
+    clear: 
+}
+
+
+
+
+
+.daniel_footer{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+}
+
+
+
+
+
+/* command + / = this shortcut adds comment tags */
+/* command + tab = this shortcut lets you flip through and see what programs you have open*/
+
+/***********************here are some notes on how to apply styles on a form ******************************/
+
+
+/*
+*/
+
+
+
+
+
+
+
+
+
+
+        
+
+
+

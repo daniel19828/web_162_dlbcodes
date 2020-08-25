@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+    
+#topnav{
+	background-color: #000000;
+	display: grid;
+    grid-gap: 0px;
+    grid-template-columns:  170px minmax(160px,  ); 
+        
+}
+
+
+
+
+#topnav{
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+    
+	
+}
+#topnav ul{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#topnav ul li{
+	background-color: #000000;
+	float: left;
+	position: relative;
+	border: thin solid #6F6F6F;
+	list-style-type: none;
+}
+#topnav ul li a{
+	color: #FFFFFF;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+	line-height: 60px;
+	width: 168px;
+	height: 60px;
+	text-align: center;
+	overflow-x: hidden;
+}
+#topnav ul ul{
+	position: absolute;
+	visibility: hidden;
+	top: 31px;
+	left: -1px;
+}
+#topnav ul li:hover ul{
+	visibility: visible;
+}
+#topnav ul li:hover{
+	background-color: skyblue;
+}
+#topnav ul li ul li a:hover{
+	background-color: skyblue;
+}
+#topnav ul li a:hover{
+	color: #000000;
+}
+
+
+
+
+@media (max-width: 768px;){
+    
+    
+#topnav ul li{
+        
+        width: 100%;
+        height: auto;
+        
+}
+    
+    
+    
+}
+
+
+
+
+
